@@ -47,5 +47,4 @@ Connect4/Project Connect4
 │
 ├── index.html       # Main UI structure and game board grid
 ├── styles.css       # Styling, layout, color palette (#4f3ff0 & #d5deff)
-├── script.js        # Core game mechanics, matrix arrays, and event listeners
-└── README.md        # Project documentation
+└── script.js        # Core game mechanics, matrix arrays, and event listeners
