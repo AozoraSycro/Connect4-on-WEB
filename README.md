@@ -43,7 +43,7 @@ Connect Four is a strategic two-player connection board game. The objective is t
 
 ### Project Directory
 ```text
-Connect4_basic-game/
+Connect4/Project Connect4
 │
 ├── index.html       # Main UI structure and game board grid
 ├── styles.css       # Styling, layout, color palette (#4f3ff0 & #d5deff)
